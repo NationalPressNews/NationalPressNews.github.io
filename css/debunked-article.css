@@ -105,7 +105,7 @@
   letter-spacing: 0;
   line-height: normal;
   min-height: 143px;
-  min-width: 1144px;
+  min-width: 100%;
   text-align: center;
 }
 
@@ -113,7 +113,7 @@
   height: 1px;
   margin-right: 6.0px;
   object-fit: cover;
-  width: 1914px;
+  width: 100%;
 }
 
 .debunked-article .useful-info {
@@ -123,14 +123,14 @@
   gap: 19px;
   margin-top: 30px;
   min-height: 93px;
-  width: 1440px;
+  width: 100%;
 }
 
 .debunked-article .line-9 {
   height: 1px;
   margin-top: -1px;
   object-fit: cover;
-  width: 1440px;
+  width: 100%;
 }
 
 .debunked-article .flex-row {
@@ -138,7 +138,7 @@
   display: flex;
   gap: 397px;
   height: 74px;
-  min-width: 1180px;
+  min-width: 100%;
 }
 
 .debunked-article .author {
@@ -260,7 +260,7 @@
   margin-left: 1.0px;
   margin-top: 48px;
   min-height: 156px;
-  width: 1025px;
+  width: 100%;
 }
 
 .debunked-article .group-container {
