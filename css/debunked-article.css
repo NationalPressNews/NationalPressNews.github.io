@@ -8,7 +8,7 @@
   flex-direction: column;
   min-height: 3383px;
   overflow-x: hidden;
-  width: 1920px;
+  width: 100%;
 }
 
 .debunked-article .header {
@@ -22,7 +22,7 @@
   mix-blend-mode: normal;
   padding: 27px 80px;
   position: relative;
-  width: 1920px;
+  width: 100%;
 }
 
 .debunked-article .debunk-logo-01-1 {
@@ -92,7 +92,7 @@
   background-color: var(--black);
   display: flex;
   height: 189px;
-  min-width: 1920px;
+  min-width: 100%;
   padding: 15px 388px;
 }
 
