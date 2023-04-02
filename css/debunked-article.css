@@ -482,7 +482,7 @@
   height: 776px;
   margin-left: 2.0px;
   margin-top: 79px;
-  min-width: 1922px;
+  min-width: 100%;
 }
 
 .debunked-article .overlap-group2 {
@@ -698,27 +698,27 @@
   min-height: 636px;
   position: absolute;
   top: 0;
-  width: 1920px;
+  width: 100%;
 }
 
 .debunked-article .line-18 {
   height: 1px;
   margin-top: -1px;
   object-fit: cover;
-  width: 1920px;
+  width: 100%;
 }
 
 .debunked-article .line-16 {
   height: 1px;
   margin-top: 297px;
   object-fit: cover;
-  width: 1920px;
+  width: 100%;
 }
 
 .debunked-article .line-container-1 {
   height: 337px;
   position: relative;
-  width: 1920px;
+  width: 100%;
 }
 
 .debunked-article .line-15-1 {
@@ -745,7 +745,7 @@
   object-fit: cover;
   position: absolute;
   top: 336px;
-  width: 1920px;
+  width: 100%;
 }
 
 .debunked-article .newsletter {
@@ -868,7 +868,7 @@
   background-color: #f1f1f1;
   height: 385px;
   position: relative;
-  width: 1920px;
+  width: 100%;
 }
 
 .debunked-article .x2023-national-pres {
