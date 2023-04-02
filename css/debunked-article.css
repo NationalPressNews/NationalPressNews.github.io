@@ -558,7 +558,7 @@
   left: 1293px;
   position: absolute;
   top: 332px;
-  width: 455px;
+  width: 100%;
 }
 
 .debunked-article .rectangle-28 {
@@ -584,7 +584,7 @@
   left: 733px;
   position: absolute;
   top: 332px;
-  width: 455px;
+  width: 100%;
 }
 
 .debunked-article .epa-pressured-for-tr {
@@ -603,7 +603,7 @@
   left: 173px;
   position: absolute;
   top: 332px;
-  width: 455px;
+  width: 100%;
 }
 
 .debunked-article .rectangle-28-2 {
@@ -623,7 +623,7 @@
   gap: 107px;
   height: 254px;
   left: 173px;
-  min-width: 1577px;
+  min-width: 100%;
   position: absolute;
   top: 17px;
 }
@@ -904,7 +904,7 @@
   left: 137px;
   position: absolute;
   top: 13px;
-  width: 1609px;
+  width: 100%;
 }
 
 .debunked-article .frame-35 {
